@@ -1,0 +1,7 @@
+Flask
+python-dotenv
+Flask-SQLAlchemy
+python-telegram-bot
+psycopg2-binary
+celery
+redis
